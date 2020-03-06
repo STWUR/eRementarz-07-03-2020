@@ -49,9 +49,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -70,10 +70,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
-- 15:30-15:45 - grupowe zdjęcie
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R- 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
 </div>
@@ -93,9 +92,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -114,9 +113,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - **11:20-12:15 - wizualizacja danych w R, cz. I**
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -137,9 +136,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - **12:15-12:45 - prezentacja Kruk SA**
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -160,9 +159,9 @@ Dla osób, które nie są zarejestrowane na meetupie: https://tinyurl.com/qrhxfw
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - **12:45-13:30 - przerwa na pizzę**
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -189,9 +188,9 @@ Pizzeria Bravo:
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- **14:30-15:30 - modelowanie w R**
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- **14:45-15:30 - modelowanie w R**
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -213,9 +212,9 @@ Pizzeria Bravo:
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - **15:30-15:45 - grupowe zdjęcie**
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -235,9 +234,9 @@ Pizzeria Bravo:
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - **15:45-16:15 - wręczenie certyfikatów**
 - 16:30-… - planszówki w Schrimp House dla chętnych
@@ -261,9 +260,9 @@ Link do certyfikatu: https://tinyurl.com/qrhxfw9
 - 11:20-12:15 - wizualizacja danych w R, cz. I
 - 12:15-12:45 - prezentacja Kruk SA
 - 12:45-13:30 - przerwa na pizzę
-- 13:30-14:15 - wizualizacja danych w R, cz. II
-- 14:15-14:30 - przerwa
-- 14:30-15:30 - modelowanie w R
+- 13:30-14:30 - wizualizacja danych w R, cz. II
+- 14:30-14:45 - przerwa
+- 14:45-15:30 - modelowanie w R
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - **16:30-… - planszówki w Shrimp House dla chętnych**
