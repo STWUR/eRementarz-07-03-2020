@@ -196,7 +196,7 @@ Pizzeria Bravo:
 <div style="float: right; width: 50%; font-size:20px;">
 <img src="mateusz.png" height="80%" width="80%" class="center"/>
 
-**Mateusz Staniak**: Student Inżynierii i Analizy Danych na Politechnice Warszawskiej, członek Koła Naukowego Data Science PW, programista i entuzjasta **R**.
+**Mateusz Staniak**: Doktorant w Instytucie Matematycznym UWr zajmujący się biostatystyką. Statystyk, programista R, freelancer.
 
 </div>  
 
