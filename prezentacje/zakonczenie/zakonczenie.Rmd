@@ -109,7 +109,7 @@ read.table("dane.txt") %>%
 Od 30-01-2017:
 
  - 30 spotkań STWURa i WAMPiRa (Wrocławski Alians Miłośników Pythona i **R**),
- - Why R? 2018: ogólnopolska konferencja użytkowników **R** we Wrocławiu,
+ - Why R? 2018: międzynarodowa konferencja użytkowników **R** we Wrocławiu,
  - stała współpraca z uczelniami, kołami naukowymi i wrocławskimi firmami z sektora data science,
  - Wigilia Data Science :) 
  
