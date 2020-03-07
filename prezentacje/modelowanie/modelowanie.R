@@ -12,6 +12,8 @@ hs_st = ncn_grants %>%
     filter(panel %in% c("HS", "ST")) %>%
     mutate(is_HS = panel == "HS") %>%
     mutate(year = year(date))
+# Bez lubridate:
+as.integer(substr(hs_st[["date"]], 1, 4))
 head(hs_st)
 # Podział na zbiór uczący i testowy
 set.seed(17)
