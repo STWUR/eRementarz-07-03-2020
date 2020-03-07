@@ -104,11 +104,40 @@ filter(dane, subpanel %in% c("NZ2", "NZ8",
              label = ..count..)) +
   geom_bar(position = "dodge")
 
-filter(dane, subpanel %in% c("NZ2", "NZ8",
+bp <- filter(dane, subpanel %in% c("NZ2", "NZ8",
                              "ST1", "ST6")) %>% 
   ggplot(aes(x = panel, fill = subpanel,
              label = ..count.., color = subpanel)) +
   geom_bar(position = position_dodge(width = 1)) +
   geom_label(stat = "count", 
              position = position_dodge(width = 1),
-             fill = "white")
+             fill = "white", vjust = 1, 
+             show.legend = FALSE)
+
+bp + 
+  scale_x_discrete("Panel NCN") +
+  scale_y_continuous("Liczba projektów") +
+  scale_fill_manual("Subpanel", values = grey(1L:4/6)) +
+  scale_color_manual("Subpanel", values = grey(1L:4/6)) +
+  theme_bw() +
+  theme(legend.position = "bottom")
+
+dane_4 <- filter(dane, subpanel %in% c("NZ2", "NZ8",
+                             "ST1", "ST6")) %>% 
+  group_by(panel, subpanel) %>% 
+  summarise(n = length(panel)) %>% 
+  arrange(desc(n))
+
+bar_colors <- setNames(grey(0L:3/5), 
+                       as.character(dane_4$subpanel))
+
+p <- ggplot(dane_4, aes(x = panel, fill = subpanel, y = n)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_manual(values = bar_colors)  +
+  theme_bw() +
+  theme(legend.position = "bottom")
+
+p + coord_flip()
+ggplot(dane, aes(x = duration, y = coinvestigators)) +
+  geom_point() +
+  coord_equal()
