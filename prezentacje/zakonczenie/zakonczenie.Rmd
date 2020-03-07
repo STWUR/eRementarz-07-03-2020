@@ -35,7 +35,7 @@ https://2020.whyr.pl/
 
 <div style="float: left; width: 50%; font-size:20px;">
 
- - Paweł Bogdan
+ - **Paweł Bogdan**
  - Łukasz Bombała
  - **Jarosław Chilimoniuk**
  - Mateusz Czupała
@@ -76,6 +76,10 @@ A także:
 <img src="piotr.jpg" height="70%" width="70%" class="center"/>
 
 Piotr Sobczyk, http://szychtawdanych.pl/
+
+## Podziękowania
+
+<img src="stwury_strona.png" height="42%" width="42%" class="center"/>
 
 ## Podziękowania
 
