@@ -12,4 +12,4 @@ Podczas eRementarza używamy **R**, dlatego przyda się własny, odpowiednio sko
 source("https://raw.githubusercontent.com/STWUR/eRementarz-07-03-2020/master/configure.R")
 ```
 
-Certyfikat ze spotkania (dla osób, które nie są zarejestrowane na Meetupie): https://tinyurl.com/qrhxfw9
+Certyfikat ze spotkania: https://tinyurl.com/qrhxfw9
