@@ -35,7 +35,7 @@ https://2020.whyr.pl/
 
 <div style="float: left; width: 50%; font-size:20px;">
 
- - Paweł Bogdan
+ - **Paweł Bogdan**
  - Łukasz Bombała
  - **Jarosław Chilimoniuk**
  - Mateusz Czupała
